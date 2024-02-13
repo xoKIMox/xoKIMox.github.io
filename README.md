@@ -5,16 +5,6 @@
 
 สำหรับวิฃา .[OOP](https://wichit2s.github.io)
 
-อภิวัฒน์ คันทะพรม
-
-![banner](https://picsum.photos/800/250)
-
-# สมุดบันทึก
-
-สำหรับรายวิชา [OOP](https://wichit2s.github.io) 
-
-![download banner](./banner.jpg)
-
 ## คำสั่ง git พื้นฐาน
 
 ```
@@ -31,4 +21,5 @@ for k,v in d.items():
    print(k, v)
 ```
 
-นินา สมบัติ
+อภิวัฒน์ คันทะพรม
+
