@@ -42,5 +42,14 @@ venv/scripts/activate
 
 pip install streamlit
 
+## การรัน
+1.python pyside6/app03.py
+
+2.streamlit run streamlit/app02.py
+
+## diffusers
+pip install --upgrade diffusers[torch]
+pip install --upgrade transformers
+
 อภิวัฒน์ คันทะพรม
 
