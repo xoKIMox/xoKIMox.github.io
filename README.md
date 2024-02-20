@@ -49,6 +49,7 @@ pip install streamlit
 
 ## diffusers
 pip install --upgrade diffusers[torch]
+
 pip install --upgrade transformers
 
 อภิวัฒน์ คันทะพรม
