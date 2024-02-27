@@ -52,5 +52,20 @@ pip install --upgrade diffusers[torch]
 
 pip install --upgrade transformers
 
+## Project 
+https://github.com/ฃื่อโปรเจค/oop-project
+REAMDE.md
+- application
+
+- author:
+  *di: --
+  *name: --
+
+-technology: [pygame/streamlit]
+-application description:
+
+*presentation: [slide/canva/etc..]
+*video: link [public/ubu]
+
 อภิวัฒน์ คันทะพรม
 
